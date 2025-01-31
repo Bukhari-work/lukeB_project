@@ -1,0 +1,3 @@
+# ignore things related to dbeaver config
+.dbeaver/
+.project
