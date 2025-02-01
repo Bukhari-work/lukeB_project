@@ -1,3 +1,11 @@
-# ignore things related to dbeaver config
+# things related to dbeaver config
 .dbeaver/
 .project
+
+# things related to project management
+*.env
+*.dump
+*.backup
+
+# things related to macOS
+.DS_Store
