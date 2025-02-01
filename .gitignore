@@ -1,4 +1,5 @@
 # things related to dbeaver config
+.dbeaver4/
 .dbeaver/
 .project
 
@@ -9,3 +10,10 @@
 
 # things related to macOS
 .DS_Store
+
+# Project-specific metadata
+.metadata/
+
+# Temporary files
+*.log
+*.tmp
